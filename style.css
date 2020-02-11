@@ -43,3 +43,16 @@
         width: auto;
         height: 100px;
     }
+
+    #products {
+        display: inline-flex;
+        display: inline-flex;
+        justify-content: flex-start;
+        flex-direction: column;
+        padding: 0 20em;
+        
+    }
+
+    #title {
+        text-align: center;
+    }
